@@ -16,9 +16,7 @@
 
 get_header(); ?>
 
-	<main role="main">
-
-		<div class="">
+		<section>
 
 			<?php
 			if ( have_posts() ) : while ( have_posts() ) : the_post();
@@ -28,6 +26,6 @@ get_header(); ?>
 			endwhile; endif;
 			?>
 
-		</div> <!-- /.blog-main -->
+		</section> <!-- /.blog-main -->
 
 <?php get_footer(); ?>
