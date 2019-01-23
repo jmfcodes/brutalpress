@@ -17,6 +17,14 @@ Mostly functional. Use at your own risk.
 - make blog titles clickable OR add permalink to each post in blog view
 - what to do with comments? (besides reject the comments feature on moral grounds) display, permalink-only-view?
 
+## Screenshots:
+
+I hear people like screenshots.
+
+![Main page screenshot.](/screenshots/brutalpress-main.png)
+
+![Blog page screenshot.](/screenshots/brutalpress-blog.png)
+
 ## Credits
 
 Inspired by [Brutstrap](https://emsenn.neocities.org/brutstrap/).
