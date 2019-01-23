@@ -10,10 +10,7 @@
 </main>
 <footer class="footer -invertColor">
   <section id="copyright" role="contentinfo" class="-copyright">
-    TODO: Copyright/copyleft stuff.
-  </section>
-  <section id="colophon" class="-colophon">
-    TODO: Source code link.
+    <p>This is released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. The <a href="https://github.com/jmfcodes/brutalpress">source</a> lives on GitHub</p>
   </section>
 </footer>
 <?php wp_footer(); ?>
