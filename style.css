@@ -42,6 +42,7 @@ main {
   margin: 0 auto;
   line-height: 1.6;
   margin-bottom: 8rem;
+	padding-bottom: 4rem;
 }
 footer {
   padding: 1em 0;
@@ -99,7 +100,9 @@ h3 {
   border-left: 0.1em solid #444;
 }
 .codeBlock {
-  padding: 0.5em;
+	font-family: monospace;
+	padding: 0.1em 0.3em;
+  margin: 0em 0.2em;
   border: 0.1em solid #444;
   white-space: pre-wrap;
   overflow-x: scroll;

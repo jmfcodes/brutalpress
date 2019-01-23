@@ -2,7 +2,12 @@
 
 A brutalist WordPress theme.
 
-This is not fully functional yet! Use at your own risk.
+Mostly functional. Use at your own risk.
+
+## TODO:
+
+- remove clickability from page titles: they're redundant.
+- what to do with comments? (besides reject the comments feature on moral grounds) display, permalink-only-view?
 
 ## TODO:
 
